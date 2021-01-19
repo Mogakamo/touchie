@@ -138,7 +138,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/m_ogakadev) - mogaka.amo254@gmail.com
+Your Name - [@m_ogakadev](https://twitter.com/m_ogakadev) - mogaka.amo254@gmail.com
 
 Project Link: [https://github.com/Mogakamo/touchie](https://github.com/Mogakamo/touchie)
 
