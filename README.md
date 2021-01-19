@@ -1,6 +1,11 @@
 <!--
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![GitHub issues](https://img.shields.io/github/issues/Mogakamo/touchie?style=for-the-badge)](https://github.com/Mogakamo/touchie/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Mogakamo/touchie?style=for-the-badge)](https://github.com/Mogakamo/touchie/network)
+[![GitHub stars](https://img.shields.io/github/stars/Mogakamo/touchie?style=for-the-badge)](https://github.com/Mogakamo/touchie/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Mogakamo/touchie?style=for-the-badge)](https://github.com/Mogakamo/touchie/blob/master/LICENSE.txt)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fm_ogakadev)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FMogakamo%2Ftouchie)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!--*** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
